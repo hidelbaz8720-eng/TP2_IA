@@ -111,17 +111,7 @@ Dans un moteur de recherche, TF-IDF permet d'identifier les mots importants d'un
 
 ---
 
-## 📊 Comparaison entre BoW et TF-IDF
 
-| Critère | Bag of Words | TF-IDF |
-|---|---|---|
-| Principe | Comptage des mots | Pondération des mots |
-| Valeurs | Nombre d'occurrences | Poids numériques |
-| Importance des mots | Non évaluée | Évaluée |
-| Ordre des mots | Ignoré | Ignoré |
-| Contexte | Non pris en compte | Non pris en compte |
-
----
 
 ##  Technologies et outils utilisés
 
